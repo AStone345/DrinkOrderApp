@@ -17,4 +17,8 @@ $(document).ready(function() {
     $('#order-details').html("<h1>" + orderName + "'s order is ready!</h1>");
   });
 
+  //slider bar
+  $('.bxslider').bxSlider();
+
+
 });
